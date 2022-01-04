@@ -1,0 +1,8 @@
+{
+    "name": "perf-manager",
+    "author": "Christos Spiliopoulos",
+    "license": "Apache-2.0",
+    "devDependencies": {
+        "ioredis": "^4.28.2"
+    }
+}
